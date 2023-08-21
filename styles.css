@@ -1,0 +1,38 @@
+ul {
+    list-style: none;
+    
+}
+#social-links > li {
+     padding: 50px;
+    display: inline;
+}
+
+#social-link-items > a {
+    color: white;
+}
+
+#stacks > li
+{
+    
+    padding: 5px;
+    display: inline ;
+    
+}
+
+#line-break {
+
+    border-right: 2px solid white !important;
+    border-left: 2px solid white !important;
+}
+
+#stacks {
+    margin-top: 10px;
+}
+
+#stack-break {
+    border-right: 2px solid white !important;
+}
+#weather{
+    width: 630px;
+    height: 300px;
+}
